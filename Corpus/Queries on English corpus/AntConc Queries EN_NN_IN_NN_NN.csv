@@ -1,0 +1,42 @@
+Cluster;Rank;Freq;Range;NormFreq;NormRange;BOP TERM;Add. TERM;TERM inferred (extended/shrinked cluster or own knowledge);Further remark;BOP Collocation;;
+balance of payments statistics;1;111;16;0.099;0.421;y;;;Synonym of BOP used in discurse;;;
+system of national accounts;2;89;15;0.080;0.395;n;;;;;Y =;2
+balance of payments transactions;3;66;5;0.059;0.132;n;;;;y;P =;0
+volume of assets account;4;55;5;0.049;0.132;n;1;other changes in ~;;;N =;36
+balance of payments services;5;49;5;0.044;0.132;n;1;extended ~ classification;;;Sum =;38
+definition of foreign direct;6;48;11;0.043;0.289;n;1;foreign direct investment;;;Y with X =;12
+organisation for economic co;7;47;11;0.042;0.289;n;;;;;Sum Y =;14
+balance of payments purposes;8;46;7;0.041;0.184;n;;;;;;
+change in pension entitlements;8;46;6;0.041;0.158;n;;;Give rise to adjustments by statisticians;y;;
+balance of payments accounts;10;36;7;0.032;0.184;n;;;;y;;
+bank for international settlements;11;35;12;0.031;0.316;n;;;;;;
+funds at book value;11;35;8;0.031;0.211;n;1;book value;;;;
+system of macroeconomic accounts;13;34;9;0.030;0.237;n;;;;;;
+balance of payments data;14;31;10;0.028;0.263;n;;;;;;
+balance of payments manual;14;31;16;0.028;0.421;n;;;;;;
+statistics of international trade;16;29;6;0.026;0.158;n;;;;;;
+balance of payments compilation;18;23;5;0.021;0.132;n;;;;;;
+changes in exchange rates;19;21;7;0.019;0.184;n;;;;;;
+changes in pension entitlements;21;19;5;0.017;0.132;n;;;;;;
+trade in services statistics;22;18;7;0.016;0.184;n;1;international ~;;;;
+balance of payments basis;23;17;6;0.015;0.158;n;;;;;;
+balance of international payments;24;16;9;0.014;0.237;y;;;"Wrong pattern identified.
+Canadian";;;
+framework for direct investment;25;13;7;0.012;0.184;n;1;~ relationships (FDIR);;;;
+bureau of economic analysis;27;12;6;0.011;0.158;n;;;;;;
+liabilities of investment funds;27;12;8;0.011;0.211;n;;;;;;
+surveys of credit institutions;27;12;7;0.011;0.184;n;;;;;;
+balance of payments division;30;11;6;0.010;0.158;n;;;;;;
+trade in goods statistics;30;11;6;0.010;0.158;n;2;"international ~;
+ITGS";;;;
+transactions in reserve assets;30;11;5;0.010;0.132;n;;;;y;;
+change of ownership principle;33;9;5;0.008;0.132;n;1;change of ownership;;;;
+compilation of euro area;35;8;5;0.007;0.132;n;;;;;;
+intermediaries except insurance corporations;35;8;7;0.007;0.184;n;2;"financial intermediary;
+insurance corporation";;;;
+burden on data providers;37;7;7;0.006;0.184;n;;;;;;
+group on national accounts;37;7;5;0.006;0.132;n;;;;;;
+production of motion pictures;37;7;7;0.006;0.184;n;;;;;;
+positions at market value;40;6;5;0.005;0.132;n;1;market value;;;;
+taxes on capital gains;40;6;6;0.005;0.158;n;;;;;;
+imperfections in source data;42;5;5;0.004;0.132;n;;;;;;

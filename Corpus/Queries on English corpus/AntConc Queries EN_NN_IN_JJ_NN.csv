@@ -1,0 +1,28 @@
+Cluster;Rank;Freq;Range;NormFreq;NormRange;BOP TERM;Add. TERM;TERM inferred (extended/shrinked cluster or own knowledge);Further remark;BOP Collocation;;;
+allocation of primary income;1;80;5;0.099;0.128;n;;;SNA;;;;
+use of intellectual property;2;79;11;0.098;0.282;n;;;;y;;Y =;1
+changes in financial assets;3;78;7;0.097;0.179;n;1;other ~ and liabilities account;;;;P =;0
+services on physical inputs;4;66;9;0.082;0.231;n;;;;;;N =;26
+transactions in financial assets;5;55;13;0.068;0.333;n;;;;y;;Sum =;27
+acquisition of financial assets;6;49;14;0.061;0.359;n;1;net ~;;;;Y with X =;2
+balance of international payments;7;48;6;0.059;0.154;y;;;;;;Sum Y =;3
+centre of economic interest;8;47;9;0.058;0.231;n;;;;y;;;
+change of economic ownership;9;36;6;0.045;0.154;n;;;;y;;;
+transactions in financial derivatives;10;23;9;0.028;0.231;n;;;;y;;;
+type of financial instrument;11;22;13;0.027;0.333;n;;;;;;;
+transactions in financial instruments;12;20;7;0.025;0.179;n;;;;y;;;
+classification of financial assets;13;17;5;0.021;0.128;n;;;;;;;
+positions between fellow enterprises;13;17;7;0.021;0.179;n;;;;;;;
+data on direct investment;15;15;5;0.019;0.128;n;;;;;;;
+data on financial derivatives;15;15;5;0.019;0.128;n;;;;;;;
+income on direct investment;15;15;6;0.019;0.154;n;;;;y;;;
+investment between fellow enterprises;18;14;6;0.017;0.154;n;;;;y;;;
+positions in financial derivatives;18;14;7;0.017;0.179;n;;;;;;;
+stocks of financial assets;18;14;7;0.017;0.179;n;;;;;;;
+classification of financial instruments;21;13;7;0.016;0.179;n;;;;;;;
+positions of financial assets;21;13;5;0.016;0.128;n;;;;;;;
+transactions between affiliated enterprises;21;13;5;0.016;0.128;n;;;;y;;;
+case of direct investment;24;12;5;0.015;0.128;n;;;;;;;
+change in economic ownership;24;12;6;0.015;0.154;n;;;;y;;;
+increase in financial assets;26;11;6;0.014;0.154;n;;;;;;;
+ownership of real estate;27;10;6;0.012;0.154;n;;;;;;;

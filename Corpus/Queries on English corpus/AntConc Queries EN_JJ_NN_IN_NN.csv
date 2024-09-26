@@ -1,0 +1,26 @@
+Cluster;Rank;Freq;Range;NormFreq;NormRange;BOP TERM;Add. TERM;TERM inferred (extended/shrinked cluster or own knowledge);Further remark;BOP Collocation;;
+international trade in services;1;101;11;0.162;0.289;n;1;international trade;"""This concept of international trade in services is combined with the concept of international trade in goods to create that of international trade in the BPM6 goods and services account . However , as described in box I.1 , it is not always possible to clearly separate the value of trade in goods from the value of trade in services ."" (RM_UN et al. 2010-e)";;Y =;3
+other changes in volume;2;99;10;0.159;0.263;y;;;;;P =;0
+net incurrence of liabilities;3;51;13;0.082;0.342;y;;;;;N =;21
+current taxes on income;4;40;8;0.064;0.211;n;;;;;Sum =;24
+other changes in assets;5;39;6;0.063;0.158;n;2;"~ account;
+~ and liabilities account";;;Y with X =;5
+significant degree of influence;6;37;7;0.059;0.184;n;;;"Phraseology in the definition of FDIs (""control or ~"")";y;Sum Y =;8
+net exports of goods;7;34;9;0.055;0.237;n;1;~ under merchanting;;;;
+own funds at book;8;33;7;0.053;0.184;n;;;;;;
+canadian system of macroeconomic;9;26;8;0.042;0.211;n;;;;;;
+international trade in goods;10;19;7;0.031;0.184;n;;;See comment for international trade cluster 8;;;
+current transfers in cash;11;18;9;0.029;0.237;y;;;A kind of current transfers;;;
+long period of time;12;17;6;0.027;0.158;n;;;;;;
+close substitutes for deposits;13;16;6;0.026;0.158;n;;;;;;
+quarterly balance of payments;14;15;8;0.024;0.211;n;;;;;;
+financial intermediaries except insurance;15;12;8;0.019;0.211;n;;;;;;
+notional units for ownership;15;12;5;0.019;0.132;n;1;notional unit;;;;
+current transfers between residents;17;8;5;0.013;0.132;n;;;;;;
+functional categories of investment;17;8;6;0.013;0.158;n;;;Valuable information for the definition of functional categories;;;
+economic point of view;19;7;5;0.011;0.132;n;;;;;;
+significant amount of production;19;7;5;0.011;0.132;n;;;;;;
+other information by telephone;21;6;6;0.010;0.158;n;;;;;;
+short period of time;21;6;5;0.010;0.132;n;;;;;;
+total value of assets;21;6;5;0.010;0.132;n;;;;;;
+direct extension of credit;24;5;5;0.008;0.132;n;;;;;;

@@ -1,0 +1,72 @@
+Cluster;Rank;Freq;Range;NormFreq;NormRange;BOP TERM;Add. TERM;TERM inferred (extended/shrinked cluster or own knowledge);Further remark;BOP Collocation;;
+investment fund shares;2;174;17;0.049;0.447;y;;;;;;
+international investment position;3;163;28;0.046;0.737;y;;;;;Y =;24
+euro area countries;5;118;7;0.033;0.184;n;;;;;P =;0
+international monetary fund;6;112;21;0.032;0.553;n;;;;;N =;44
+foreign direct investment;7;111;17;0.031;0.447;y;;;;;Sum =;68
+employee stock options;8;104;13;0.029;0.342;y;;;;;Y with X =;10
+term debt securities;9;102;12;0.029;0.316;n;1;debt security;;;Sum Y =;34
+european central bank;10;90;20;0.025;0.526;n;;;;;;
+merchandise trade statistics;11;87;14;0.025;0.368;n;2;"international ~;
+IMTS";An individual of <Non-BOP-Statistics>;;;
+balance sheet information;13;72;7;0.020;0.184;n;;;;;;
+investment position manual;13;72;16;0.020;0.421;n;;;;;;
+data collection system;15;70;8;0.020;0.211;n;;;;;;
+money market funds;15;70;17;0.020;0.447;y;;;;;;
+exchange rate changes;17;66;11;0.019;0.289;n;;;;;;
+money market instruments;18;63;15;0.018;0.395;y;;;;;;
+eu member states;19;61;9;0.017;0.237;n;;;;;;
+portfolio investment income;20;54;10;0.015;0.263;n;;;;y;;
+portfolio investment liabilities;22;51;12;0.014;0.316;n;;;;y;;
+oecd benchmark definition;23;49;11;0.014;0.289;n;;;;;;
+balance sheet data;24;48;8;0.014;0.211;n;;;;;;
+euro area b.o.p;25;46;6;0.013;0.158;n;;;;;;
+government finance statistics;26;44;9;0.012;0.237;n;;;;;;
+tourism satellite account;27;42;5;0.012;0.132;y;;;;;;
+external debt statistics;28;40;7;0.011;0.184;y;;;;;;
+euro area aggregates;29;38;8;0.011;0.211;n;;;;;;
+balance sheet accounts;31;34;6;0.010;0.158;n;;;;;;
+closing balance sheet;32;32;5;0.009;0.132;n;;;;;;
+portfolio investment survey;33;31;10;0.009;0.263;n;1;coordinated ~;An individual of <Statistical Survey>;;;
+portfolio investment assets;34;29;8;0.008;0.211;n;;;;y;;
+investment funds shares;36;28;8;0.008;0.211;y;;;;;;
+special purpose entities;36;28;7;0.008;0.184;y;;;;;;
+international merchandise trade;38;27;10;0.008;0.263;y;;;;;;
+investment position statistics;39;25;12;0.007;0.316;n;;;"international ~;
+IIP statistics";;;
+coordinated portfolio investment;40;23;8;0.006;0.211;n;;;;;;
+special drawing rights;41;22;7;0.006;0.184;y;;;;;;
+capital account transactions;43;21;7;0.006;0.184;n;;;;y;;
+direct investment survey;43;21;5;0.006;0.132;n;1;coordinated ~;An individual of <Statistical Survey>;;;
+interest rate swaps;45;19;6;0.005;0.158;y;;;;;;
+investment position data;45;19;8;0.005;0.211;n;;;;;;
+life insurance policies;45;19;6;0.005;0.158;y;;;;;;
+property income receivable;45;19;5;0.005;0.132;y;1;property income payable;;;;
+balance sheet items;49;18;5;0.005;0.132;n;;;;;;
+foreign affiliates statistics;49;18;5;0.005;0.132;y;;;;;;
+management consulting services;49;18;7;0.005;0.184;y;;;;;;
+investor's share;53;17;9;0.005;0.237;n;;;;;;
+securities repurchase agreement;53;17;5;0.005;0.132;y;;;;;;
+central product classification;55;16;5;0.005;0.132;y;1;CPC;An individual of <Classification>;;;
+central statistics office;55;16;10;0.005;0.263;n;;;;;;
+portfolio investment transactions;55;16;6;0.005;0.158;n;;;;y;;
+united nations statistical;55;16;5;0.005;0.132;n;;;;;;
+international standard industrial;59;15;5;0.004;0.132;n;2;"International Standard Industrial Classification of All Economic Activities;
+ISIC";An individual of <Classification>;;;
+repair services n.i.e;59;15;6;0.004;0.158;n;1;maintenance and ~;A class;;;
+standard industrial classification;59;15;5;0.004;0.132;n;;;;;;
+direct investment relationships;62;14;6;0.004;0.158;n;;;;y;;
+exchange rate effects;63;13;6;0.004;0.158;n;;;;;;
+finance statistics manual;63;13;7;0.004;0.184;n;;;;;;
+investment income flows;63;13;6;0.004;0.158;n;;;Explanation in discurse, hypernym of Di, PF and OI flows, which are also discursive explanations;y;;
+capital account balance;66;12;6;0.003;0.158;n;;;;y;;
+investment survey guide;66;12;6;0.003;0.158;n;;;;;;
+merchandise trade data;66;12;5;0.003;0.132;n;;;;;;
+exchange rate movements;70;11;5;0.003;0.132;n;;;;;;
+financial intermediation services;70;11;6;0.003;0.158;y;;;;;;
+international investment statistics;70;11;9;0.003;0.237;y;;;;;;
+pension fund services;70;11;5;0.003;0.132;y;;;;;;
+portfolio investment statistics;70;11;5;0.003;0.132;n;;;;;;
+ecb guideline ecb/2011/23;75;10;5;0.003;0.132;n;;;;;;
+life insurance corporations;75;10;5;0.003;0.132;y;;;;;;
+money market fund;75;10;5;0.003;0.132;y;;;;;;

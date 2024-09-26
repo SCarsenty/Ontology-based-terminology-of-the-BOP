@@ -1,0 +1,57 @@
+Cluster;Rank;Freq;Range;NormFreq;NormRange;BOP TERM;Add. TERM;TERM inferred (extended/shrinked cluster or own knowledge);Further remark;BOP Collocation;;
+foreign direct investment;1;244;20;0.092;0.526;y;;;;;;
+other financial intermediaries;3;54;16;0.020;0.421;n;1;financial intermediary;;;;
+gross domestic product;7;55;11;0.021;0.289;n;;;Relevance of peripheral concepts?;;;
+international statistical standards;7;26;11;0.010;0.289;n;;;;;;
+outward direct investment;7;20;11;0.008;0.289;y;;;A kind of FDI;;;
+national central banks;10;25;10;0.009;0.263;y;;;;;;
+other financial corporations;10;64;10;0.024;0.263;n;1;financial corporation;;;;
+other institutional units;10;85;10;0.032;0.263;n;1;institutional unit;;;;
+inward direct investment;14;23;9;0.009;0.237;y;;;A kind of FDI;;;
+other financial institutions;14;28;9;0.011;0.237;n;1;financial institution;;;;
+other international organisations;14;13;9;0.005;0.237;n;;;;;;
+other primary income;14;49;9;0.019;0.237;n;;;;;;
+predominant economic interest;14;42;9;0.016;0.237;n;;;center of ~;y;;
+captive financial institutions;20;32;8;0.012;0.211;y;;;;;Y =;13
+gross national income;20;23;8;0.009;0.211;n;;;SNA concept;;P =;0
+monetary financial institutions;20;124;8;0.047;0.211;y;;;;;N =;40
+other current transfers;20;35;8;0.013;0.211;n;1;current transfer;;;Sum =;53
+other financial instruments;20;22;8;0.008;0.211;n;1;financial instrument;;;Y with X =;14
+resident direct investment;20;13;8;0.005;0.211;n;;;;;Sum Y =;27
+financial derivative contracts;26;15;7;0.006;0.184;y;;;;;;
+foreign direct investor;26;21;7;0.008;0.184;y;;;;;;
+other financial services;26;15;7;0.006;0.184;n;1;financial service;;;;
+other intellectual property;26;14;7;0.005;0.184;n;1;intellectual property;;;;
+resident institutional units;26;87;7;0.033;0.184;n;;;;;;
+financial derivative contract;34;17;6;0.006;0.158;y;;;;;;
+foreign financial assets;34;13;6;0.005;0.158;y;;;;;;
+net financial account;34;11;6;0.004;0.158;n;;;;;;
+net international investment;34;22;6;0.008;0.158;n;1;~ position;;;;
+notional direct investment;34;13;6;0.005;0.158;n;1;~ enterprise;;;;
+other financial assets;34;27;6;0.010;0.158;n;1;~ and liabilities;One of the three categories of financial assets and liabilities;;;
+other functional categories;34;21;6;0.008;0.158;n;;;"Not a term but ""and other""-query allows to capture species of a genus (here functional categories)";;;
+other international organizations;34;12;6;0.005;0.158;n;;;"Not a term but ""and other""-query allows to capture species of a genus (here international organisations)";;;
+other natural resources;34;43;6;0.016;0.158;n;;;"Not a term but ""and other""-query allows to capture species of a genus (here natural resources)";;;
+other related purposes;34;13;6;0.005;0.158;n;;;;;;
+quid pro quo;34;15;6;0.006;0.158;n;;;;;;
+resident institutional unit;34;25;6;0.009;0.158;n;;;;;;
+separate institutional unit;34;35;6;0.013;0.158;n;;;;;;
+separate institutional units;34;51;6;0.019;0.158;n;;;;;;
+ultimate beneficial owner;34;16;6;0.006;0.158;n;;;"FDI Statistics:
+UBO;
+ultimate controlling institutional unit;
+UCI";;;
+current international cooperation;51;35;5;0.013;0.132;n;;;;;;
+external financial assets;51;28;5;0.011;0.132;y;;;;;;
+current external balance;51;23;5;0.009;0.132;n;;;= current account balance, in the SNA;;;
+foreign central banks;51;19;5;0.007;0.132;n;;;;;;
+foreign direct investors;51;10;5;0.004;0.132;y;;;;;;
+gross fixed capital;51;43;5;0.016;0.132;n;1;~ formation;;;;
+immediate direct investment;51;15;5;0.006;0.132;n;1;~ relationship;;;;
+miscellaneous current transfers;51;18;5;0.007;0.132;n;;;;;;
+national disposable income;51;24;5;0.009;0.132;n;;;SNA concept;;;
+notional resident units;51;23;5;0.009;0.132;y;;;;;;
+other macroeconomic statistics;51;15;5;0.006;0.132;n;;;;;;
+other technical services;51;13;5;0.005;0.132;n;;;;;;
+separate legal entity;51;11;5;0.004;0.132;n;1;legal entity;;;;
+single monetary policy;51;10;5;0.004;0.132;n;;;;;;

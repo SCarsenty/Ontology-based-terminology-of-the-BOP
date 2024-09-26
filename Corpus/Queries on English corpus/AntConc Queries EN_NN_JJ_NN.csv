@@ -1,0 +1,22 @@
+Cluster;Rank;Freq;Range;NormFreq;NormRange;BOP TERM;Add. TERM;TERM inferred (extended/shrinked cluster or own knowledge);Further remark;BOP Collocation;;
+insurance technical reserves;1;114;10;0.722;0.263;y;;;;;;
+investment functional category;2;14;8;0.089;0.211;n;1;functional category;Cluster 3;;Y =;1
+bpm6 standard components;3;10;6;0.063;0.158;n;;;;;P =;0
+category direct investment;4;8;6;0.051;0.158;n;1;direct investment;Cluster 3;;N =;5
+consumer durable goods;5;6;5;0.038;0.132;n;;;Example of type of goods included in an account;;Sum =;6
+term financial assets;5;6;5;0.038;0.132;n;1;financial asset;Cluster 3;;Y with X =;3
+;;;;;;;;;;;Sum Y =;4
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;

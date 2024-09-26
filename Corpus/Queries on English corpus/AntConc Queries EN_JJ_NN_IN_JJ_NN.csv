@@ -1,0 +1,8 @@
+Cluster;Rank;Freq;Range;NormFreq;NormRange;BOP TERM;Add. TERM;TERM inferred (extended/shrinked cluster or own knowledge);Further remark;BOP Collocation;;
+other changes in financial assets;1;64;5;0.492;0.132;n;2;~ and liabilities [account];;;;
+net acquisition of financial assets;2;43;14;0.331;0.368;y;;;;;Y =;1
+national measures of broad money;3;7;5;0.054;0.132;n;;;;;P =;0
+experimental development of new products;4;6;6;0.046;0.158;n;;;;;N =;5
+certain kinds of financial assets;5;5;5;0.038;0.132;n;;;;;Sum =;6
+collective investment in other assets;5;5;5;0.038;0.132;n;;;;;Y with X =;2
+;;;;;;;;;;;Sum Y =;3
