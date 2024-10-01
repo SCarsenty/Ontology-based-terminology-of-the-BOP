@@ -1,5 +1,4 @@
-Tool;Query type;Parameters;Target;Term candidates;Terms confirmed;Term inferred;Terms
-total;Collocations;Remarks;;;
+Tool;Query type;Parameters;Target;Term candidates;Terms confirmed;Term inferred;Terms total;Collocations;Remarks;;;
 N-Gram;_NN;Regex, N-Gram Size 1, Open Slots 0, Min. Freq. 20, Min. Range 20;BOP_EN_RM;296;38;1;39;;Selection of higher freq. + range to reduce the noise, which would result from the small size of the cluster;;;
 Keyword;_NN;Regex, Min. Freq. 20, Min. Range 20, Reference Corpus BE06_PressRev;BOP_EN_RM;222;40;NR;40;;Selection of higher freq. + range to reduce the noise, which would result from the small size of the cluster;;;
 Keyword;_NN;Regex, Min. Freq. 20, Min. Range 20, Reference Corpus BE06_PressEd;BOP_EN_RM;261;42;NR;42;;Selection of higher freq. + range to reduce the noise, which would result from the small size of the cluster;;;
