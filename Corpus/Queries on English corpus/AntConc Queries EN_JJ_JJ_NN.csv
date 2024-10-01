@@ -29,15 +29,15 @@ net financial account;34;11;6;0.004;0.158;n;;;;;;
 net international investment;34;22;6;0.008;0.158;n;1;~ position;;;;
 notional direct investment;34;13;6;0.005;0.158;n;1;~ enterprise;;;;
 other financial assets;34;27;6;0.010;0.158;n;1;~ and liabilities;One of the three categories of financial assets and liabilities;;;
-other functional categories;34;21;6;0.008;0.158;n;;;"Not a term but ""and other""-query allows to capture species of a genus (here functional categories)";;;
-other international organizations;34;12;6;0.005;0.158;n;;;"Not a term but ""and other""-query allows to capture species of a genus (here international organisations)";;;
-other natural resources;34;43;6;0.016;0.158;n;;;"Not a term but ""and other""-query allows to capture species of a genus (here natural resources)";;;
+other functional categories;34;21;6;0.008;0.158;n;;;Not a term but 'and other'-query allows to capture species of a genus (here functional categories);;;
+other international organizations;34;12;6;0.005;0.158;n;;;Not a term but 'and other'-query allows to capture species of a genus (here international organisations)";;;
+other natural resources;34;43;6;0.016;0.158;n;;;Not a term but 'and other'-query allows to capture species of a genus (here natural resources);;;
 other related purposes;34;13;6;0.005;0.158;n;;;;;;
 quid pro quo;34;15;6;0.006;0.158;n;;;;;;
 resident institutional unit;34;25;6;0.009;0.158;n;;;;;;
 separate institutional unit;34;35;6;0.013;0.158;n;;;;;;
 separate institutional units;34;51;6;0.019;0.158;n;;;;;;
-ultimate beneficial owner;34;16;6;0.006;0.158;n;;;"FDI Statistics:
+ultimate beneficial owner;34;16;6;0.006;0.158;n;;;FDI Statistics:
 UBO;
 ultimate controlling institutional unit;
 UCI";;;
