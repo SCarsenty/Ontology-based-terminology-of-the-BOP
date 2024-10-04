@@ -1,4 +1,0 @@
-Terminus	Differenz
-Kredit- und Versicherungshilfstätigkeiten	die in ihrer Hauptfunktion eng mit den finanziellen Mittlertätigkeiten verbundene Tätigkeiten ausüben, die jedoch selbst keine finanziellen Mittler sind
-Geldmarktfonds	die Investmentfondsanteile von institutionellen Einheiten als Einlagensubstitute im engeren Sinne ausgeben und für eigene Rechnung vor allem in Geldmarktfondsanteile, kurzfristige Schuldtitel und/oder Einlagen zu investieren.
-Investmentfonds (ohne Geldmarktfonds)	die nicht als Einlagensubstitute im engeren Sinne gedachte Investmentfondsanteile ausgeben und für eigene Rechnung vor allem in finanzielle Aktiva (außer kurzfristigen Anlagen) sowie in Vermögensgüter (in der Regel Immobilien) investieren
