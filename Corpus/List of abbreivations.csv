@@ -1,0 +1,34 @@
+,ORGANISATION NAME
+BCL,Banque centrale du Luxembourg (Luxemburg - CB-N)
+BdF,Banque de France (France - CB-N)
+BEA,US Bureau of Economic Analysis (SO-N)
+BoE,Bank of England (UK - CB-N)
+BuBa,Deutsche Bundesbank (Germany - CB-N)
+CSO,Central Statistics Office (Ireland - SO-N)
+CFMB,"Committee on Monetary, Financial and Balance of Payments Statistics (OT-I)"
+EC+al.,European Commission et al. (OT-I)
+ECB,European Central Bank (Euro area - CB-I)
+EuS,Eurostat (EU SO-I)
+IMF,International Monetary Fund (OT-I)
+NBB,Banque nationale de Belgique (Belgium - CB-N)
+OeNB,Östereichische Nationalbank (Austria - CB-N)
+ONS,Office for National Statistics (UK SO-N)
+Scan,Statistics Canada (Canada SO-N)
+SNB,Swiss National Bank (Switzerland - CB-N)
+UN+al.,United Nations et al. (OT-I)
+Statec,Statec (Luxemburg  - SO-N)
+,
+,ORGANISATION TYPE
+CB,Central Bank
+SO,Statistics Office
+OT,Others
+I,International
+N,National
+,
+,DOCUMENT TYPE
+GP,General presentations and Documents for non-specialists
+PP,Papers and articles on special topics published in reviews
+PR,Press releases and reports
+RE,Regulatory documents
+RM,"Reference documents, manuals, methodology"
+,

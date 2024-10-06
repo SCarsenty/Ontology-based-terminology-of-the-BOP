@@ -1,0 +1,23 @@
+N,Organisations,Area,Type,URL 1,URL 2,Notes,Contact name,Contact email,Contact OK to be in expert pool
+1,BCL,LU,CB,http://www.bcl.lu/fr/statistiques/series_statistiques_luxembourg/07_balance/index.html ,,Are there papers/articles on the BOP?,Paul Feuvrier,Paul.Feuvrier@bcl.lu,?
+2,BdF,FR,CB,https://www.banque-france.fr/statistiques/balance-des-paiements-et-statistiques-bancaires-internationales/la-balance-des-paiements-et-la-position-exterieure ,https://www.banque-france.fr/application-mobile ,,"Bertrand Pluyaud
+Bertrand Colle",bertrand.pluyaud@banque-france.fr; bertrand.colles@banque-france.fr,NO
+3,BEA,USA,SO,https://www.bea.gov/data/intl-trade-investment/international-transactions ,,,"Raymond Mataloni
+Patricia Abaroa",raymond.mataloni@bea.gov; patricia.abaroa@bea.gov,YES
+4,BoE,UK,CB,https://www.bankofengland.co.uk/search#?cludoquery=%22balance%20of%20payments%22&cludopage=1 ,,Interesting PP but as old as 1961… No recent publication on BOP on the BoE website. Everything published by ONS,Perry Francis ,perry.francis@bankofengland.gsi.gov.uk,YES
+5,BuBa,DE,CB,https://www.bundesbank.de/de/statistiken/aussenwirtschaft/zahlungsbilanz/zahlungsbilanz-776098 ,https://www.bundesbank.de/action/de/732090/bbksearch?tf=815054%3A501158.815054%3A810762.815054%3A814192. ,,Stefan Hopp,stefan.hopp@bundesbank.de,?
+6,CSO,IE,SO,https://www.cso.ie/en/statistics/internationalaccounts/internationalaccounts/,,Availability of the papers presented at the 2012 BOP seminary (https://www.cso.ie/en/csolatestnews/eventsconferencesseminars/balanceofpaymentsseminar/)?,Christopher Sibley,Christopher.Sibley@cso.ie ,YES
+7,CMFB,EU,OT,https://www.cmfb.org/home,,No contact person: consultative body with persons from Eurostat and ECB,na,na,na
+8,ECB,Euro,CB,https://www.ecb.europa.eu/stats/balance_of_payments_and_external/html/index.en.html ,,Nuno Silva has changed assignment.,Jorge Diz Dias,Jorge.Diz_Dias@ecb.europa.eu,?
+9,EuS,EU,SO,https://ec.europa.eu/eurostat/web/balance-of-payments ,,,Olaf Nowak ,olaf.nowak@ec.europa.eu ,YES
+10,IMF,-,OT,https://www.imf.org/external/np/sta/bop/bop.htm ,,,Paul Austin ,PAUSTIN@imf.org ,NO
+11,NBB,BE,CB,https://www.nbb.be/fr/statistiques/balance-des-paiements ,,,Roger De Boeck,rdb.db@scarlet.be ,YES
+12,OeNB,AT,CB,https://www.oenb.at/Statistik/Standardisierte-Tabellen/auszenwirtschaft/zahlungsbilanz-und-internationale-vermoegensposition.html,,,Thomas Cernohous,thomas.cernohous@oenb.at ,YES
+13,ONS,UK,SO,https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/balanceofpayments/latest ,,,Richard McCrae,richard.mccrae@ons.gov.uk  ,YES
+14,Scan,CA,SO,https://www150.statcan.gc.ca/n1/en/subjects/economic_accounts/international_accounts ,https://www150.statcan.gc.ca/n1/fr/sujets/comptes_economiques/comptes_internationaux ,,"Jennifer Withington, Eric Boulay",jennifer.withington@canada.ca ; eric.boulay@canada.ca ,YES
+15,SNB,CH,CB,https://data.snb.ch/de/topics/aube#!/doc/explanations_aube_bopauverm,https://data.snb.ch/fr/topics/aube#!/doc/explanations_aube_bopauverm ,,Muff Hildegard; Flühmann Alexander,"hildegard.muff@snb.ch 
+alexander.fluehmann@snb.ch ",YES
+16,Statec,LU,SO,https://statistiques.public.lu/fr/methodologie/methodes/economie-finances/Bop/bop/index.html ,,,Laurent Bley,laurent.bley@statec.etat.lu ,YES
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
