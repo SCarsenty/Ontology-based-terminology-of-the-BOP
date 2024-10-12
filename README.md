@@ -9,5 +9,5 @@ Contains different data pertaining  to the corpus, which has been compiled for t
 Contains the  browsable HTML dictionaries on the balance of payments in English, in French, and in German. To read a dictionary, click on its name. This will display its source code. Then click on the button showing a down arrow named "Download raw file" on the right of the screen. The downloaded HTML file can be viewed on your local browser.
 
 **3. Folder Knowledge graph**  
-Contains the created ontoterminological resource as an RDF knowledge graph. The RDF file can be downloaded and edited with Protégé.
+Contains the created ontoterminological resource as an RDF knowledge graph. To edit the knowledge graph, click on its name. This will display its source code. Then click on the button showing a down arrow named "Download raw file" on the right of the screen. The downloaded RDF file can be edited with Protégé.
 
