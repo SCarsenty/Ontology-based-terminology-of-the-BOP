@@ -12,4 +12,4 @@ Contains the  browsable HTML dictionaries on the balance of payments in English,
 Contains the created ontoterminological resource as an RDF knowledge graph. To edit the knowledge graph, click on its name. This will display its source code. Then click on the button showing a down arrow named "Download raw file" on the right of the screen. The downloaded RDF file can be edited with Protégé.
 
 **4. Folder TBX**  
-Contains the export of the ontoterminological resource in TBX format
+Contains the export of the ontoterminological resource in TBX format for use in CAT tools.
