@@ -1,4 +1,4 @@
-**This repository is under construction and will present in the coming weeks resources on the research project "Ontology-based Multilingual Terminology of an institutionalised Domain: the Balance of Payments".**
+**This repository is under construction. Its aim is to present resources on the research project "Ontology based Multilingual Terminology of an institutionalised Domain: the Balance of Payments".**
 
 **Content of this repository**
 
