@@ -1,0 +1,10 @@
+No.,Domain ,Relation,Range
+1,<Transaction>,hasObject,<Economic asset>
+2,<Institutional unit>,hasOwnershipOf,"<Non-produced non-financial asset>, <Financial asset>, <Good>"
+3,<International account>,hasPart,"<Primary income account>, <Secondary income account>, <Goods and services account>, <Current account>, <Capital account>, <Financial account>, <Other changes in financial assets and liabilities account>"
+4,<Institutional unit>,hasSector,<Institutional sector>
+5,<Institutional unit>,hasStrongestEconomic-LinkWith,<Economic territory>
+6,"<Transaction>, <Economic asset>",isGroupedWith,"<Transaction>, <Economic asset>"
+7,<Non-financial asset>,isLocatedIn,<Location>
+8,"<Transaction>, <Other flow>",isRecordedIn,<International account>
+9,"<Primary income account>, <Secondary income account>, <Goods and services account>, <Current account>, <Capital account>, <Financial account>, <Other changes in financial assets and liabilities account> ",partOf,<International account>
