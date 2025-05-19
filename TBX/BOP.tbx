@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Export date: 27 janvier 2025 time: 17:52:59 -->
+<!-- Export date: 19 mai 2025 time: 12:16:03 -->
 <!-- TEDI version: 4.1 -->
 <!-- http://ontoterminology.com/tedi -->
 <TBX xmlns="urn:iso:std:iso:30042:ed-2" style="dca">
@@ -17,7 +17,7 @@
                     <p></p>
                 </sourceDesc>
                 <revisionDesc>
-                    <change when="OrderedCollection (14 janvier 2025 05:21:28)"</change>
+                    <change when="OrderedCollection (19 mai 2025 12:00:40)"</change>
                 </revisionDesc>
             </fileDesc>
         </tbxHeader>
@@ -241,6 +241,7 @@
             <conceptEntry id="c8">
                 <descripGrp>
                     <descrip type="definition" xml:lang="en">Distributive transaction associated with the redistribution of income or wealth.</descrip>
+                    <descrip type="definition" xml:lang="fr"></descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                 </langSec>
@@ -252,6 +253,11 @@
                     </termSec>
                 </langSec>
                 <langSec xml:lang="fr">
+                    <termSec>
+                        <term type="preferred">opération de redistribution</term>
+                        <termNote type="partOfSpeech">noun</termNote>
+                        <termNote type="definition"></termNote>
+                    </termSec>
                 </langSec>
             </conceptEntry>
             <conceptEntry id="c9">
@@ -691,6 +697,11 @@
                         <termNote type="partOfSpeech">noun</termNote>
                         <termNote type="definition">Revenu à payer ou à recevoir sans contrepartie.</termNote>
                     </termSec>
+                    <termSec>
+                        <term type="alternative">transfert courant</term>
+                        <termNote type="partOfSpeech">noun</termNote>
+                        <termNote type="definition"></termNote>
+                    </termSec>
                 </langSec>
             </conceptEntry>
             <conceptEntry id="c24">
@@ -758,7 +769,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Other flow, which does not result from a change in the value of assets and liabilities.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Autre flux impliquant un changement ne concernant pas la valeur des actifs financiers et des passifs.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -793,7 +804,7 @@
                     <termSec>
                         <term type="preferred">autre changement de volume</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Autre flux impliquant un changement ne concernant pas la valeur des actifs financiers et des passifs.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -839,7 +850,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Revaluation resulting from the change in prices other than exchange rates.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Réévaluation impliqunat un changement de prix autres que le taux de change.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -864,7 +875,7 @@
                     <termSec>
                         <term type="preferred">autre variation de prix</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Réévaluation impliqunat un changement de prix autres que le taux de change.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -1228,7 +1239,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Balance of payments account representing credit and debit entries for non-produced non-financial assets, and capital transfers between residents and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Compte de la balance des paiements présentant les transferts d'actifs non financiers non produits et les autres transferts en capital.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -1248,12 +1259,12 @@
                     <termSec>
                         <term type="preferred">compte de capital</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les transferts d'actifs non financiers non produits et les autres transferts en capital.</termNote>
                     </termSec>
                     <termSec>
                         <term type="none">compte capital</term>
                         <termNote type="partOfSpeech">none</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements internationaux présentant les transferts d'actifs non financiers non produits et les autres transferts en capital.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -1316,7 +1327,7 @@
             <conceptEntry id="c44">
                 <descripGrp>
                     <descrip type="definition" xml:lang="en">Account that is part of the International accounts and presents data on other flows.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Compte faisant partie des comptes internationaux, qui présente les flux qui ne résultent pas d'interactions entre résidents et non-résidents.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                 </langSec>
@@ -1331,7 +1342,7 @@
                     <termSec>
                         <term type="preferred">compte des autres changements des actifs et passifs financiers</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte faisant partie des comptes internationaux, qui présente les flux qui ne résultent pas d'interactions entre résidents et non-résidents.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -1494,7 +1505,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Balance of payments account representing net acquisition and disposal of financial assets and liabilities between residents and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Compte de la balance des paiements présentant les variations nettes des actifs financiers et des passifs des résidents vis-à-vis des non-résidents .</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -1514,12 +1525,12 @@
                     <termSec>
                         <term type="preferred">compte financier</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les variations nettes des actifs financiers et des passifs des résidents vis-à-vis des non-résidents .</termNote>
                     </termSec>
                     <termSec>
                         <term type="none">compte d'opérations financières</term>
                         <termNote type="partOfSpeech">none</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les variations nettes des actifs financiers et des passifs des résidents vis-à-vis des non-résidents .</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -1610,6 +1621,7 @@
             <conceptEntry id="c54">
                 <descripGrp>
                     <descrip type="definition" xml:lang="en">Transaction in goods and services.</descrip>
+                    <descrip type="definition" xml:lang="fr">Transaction sur des biens et services.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                 </langSec>
@@ -1621,6 +1633,16 @@
                     </termSec>
                 </langSec>
                 <langSec xml:lang="fr">
+                    <termSec>
+                        <term type="none">opération sur biens et services</term>
+                        <termNote type="partOfSpeech">none</termNote>
+                        <termNote type="definition">Transaction portant sur des biens et services.</termNote>
+                    </termSec>
+                    <termSec>
+                        <term type="preferred">transaction sur biens et services</term>
+                        <termNote type="partOfSpeech">noun</termNote>
+                        <termNote type="definition">Transaction sur des biens et services.</termNote>
+                    </termSec>
                 </langSec>
             </conceptEntry>
             <conceptEntry id="c55">
@@ -1677,7 +1699,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Statistical statement, which is part of the international account and presents data on positions between residents of an economy and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">État statistique faisant partie des comptes internationaux présentant la valeur, à une date déterminée, des actifs financiers des résidents d’une économie qui sont des créances sur les non-résidents ou sont détenus sous forme d’or physique à titre d’avoirs de réserve, et des passifs des résidents de cette économie envers des non-résidents.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -1712,17 +1734,17 @@
                     <termSec>
                         <term type="alternative">position extérieure globale</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">État statistique faisant partie des comptes internationaux présentant la valeur, à une date déterminée, des actifs financiers des résidents d’une économie qui sont des créances sur les non-résidents ou sont détenus sous forme d’or physique à titre d’avoirs de réserve, et des passifs des résidents de cette économie envers des non-résidents.</termNote>
                     </termSec>
                     <termSec>
                         <term type="preferred">position extérieure</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">État statistique faisant partie des comptes internationaux présentant la valeur, à une date déterminée, des actifs financiers des résidents d’une économie qui sont des créances sur les non-résidents ou sont détenus sous forme d’or physique à titre d’avoirs de réserve, et des passifs des résidents de cette économie envers des non-résidents.</termNote>
                     </termSec>
                     <termSec>
                         <term type="alternative">bilan des investissements internationaux</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">État statistique faisant partie des comptes internationaux présentant la valeur, à une date déterminée, des actifs financiers des résidents d’une économie qui sont des créances sur les non-résidents ou sont détenus sous forme d’or physique à titre d’avoirs de réserve, et des passifs des résidents de cette économie envers des non-résidents.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -1730,7 +1752,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Flow, which does not result from an interaction between institutional units resident in different economies.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Flux ne résultant pas d'une interaction entre deux unités institutionnelles résidentes de deux économies différentes.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -1750,7 +1772,7 @@
                     <termSec>
                         <term type="preferred">autre flux</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Flux ne résultant pas d'une interaction entre deux unités institutionnelles résidentes de deux économies différentes.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -1758,7 +1780,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Insurance service for which the policy holder does not belong to the insurance subsector.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Service d'assurance dont les bénéficiaires ne font pas partie du sous-secteur des assurances.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -1778,7 +1800,7 @@
                     <termSec>
                         <term type="preferred">assurance directe</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Service d'assurance dont les bénéficiaires ne font pas partie du sous-secteur des assurances.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -1908,7 +1930,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Balance of payments account representing redistribution of income between residents and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Compte de la balance des paiements présentant la redistribution des revenus.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -1928,12 +1950,12 @@
                     <termSec>
                         <term type="preferred">compte des revenus secondaires</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant la redistribution des revenus.</termNote>
                     </termSec>
                     <termSec>
                         <term type="alternative">compte du revenu secondaire</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant la redistribution des revenus.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -1941,7 +1963,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Balance of payment account representing transactions in goods and services between residents and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Compte de la balance des paiements présentant les transactions sur biens et services.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -1966,12 +1988,12 @@
                     <termSec>
                         <term type="alternative">compte de biens et services</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les transactions sur biens et services.</termNote>
                     </termSec>
                     <termSec>
                         <term type="preferred">compte des biens et services</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les transactions sur biens et services.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -2200,7 +2222,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Statistical statement to present data on relationships between residents of an economy and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Instrument utilisé par les statisticiens  pour présenter des données sur les relations économiques entre résidents d'une économie et non-résidents.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -2230,7 +2252,7 @@
                     <termSec>
                         <term type="preferred">compte international</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Instrument utilisé par les statisticiens  pour présenter des données sur les relations économiques entre résidents d'une économie et non-résidents.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -2238,7 +2260,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Sum of all transaction on liabilities, recorded on a net basis.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Transaction financière sur passifs enregistrée en termes nets.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -2263,7 +2285,7 @@
                     <termSec>
                         <term type="preferred">accroissement net des passifs</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Transaction financière sur passifs enregistrée en termes nets.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -2292,6 +2314,11 @@
                         <term type="preferred">revenu</term>
                         <termNote type="partOfSpeech">noun</termNote>
                         <termNote type="definition">Flux monétaire à recevoir de ou à payer à un non-résident.</termNote>
+                    </termSec>
+                    <termSec>
+                        <term type="alternative">opération de répartition</term>
+                        <termNote type="partOfSpeech">noun</termNote>
+                        <termNote type="definition"></termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -2355,7 +2382,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Balance of payments account representing amounts payable and receivable in return for providing temporary use to another entity of labour, financial resources or non-produced non-financial assets between residents and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Compte de la balance des paiements présentant les montants à payer et à recevoir en contrepartie de la fourniture de travail, d'actifs financiers ou d'actifs non financiers non produits.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -2375,17 +2402,17 @@
                     <termSec>
                         <term type="preferred">compte des revenus primaires</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les montants à payer et à recevoir en contrepartie de la fourniture de travail, d'actifs financiers ou d'actifs non financiers non produits.</termNote>
                     </termSec>
                     <termSec>
                         <term type="alternative">compte de revenu primaire</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements internationaux présentant les montants à payer et à recevoir en contrepartie de la fourniture de travail, d'actifs financiers ou d'actifs non financiers non produits.</termNote>
                     </termSec>
                     <termSec>
                         <term type="alternative">compte du revenu primaire</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les montants à payer et à recevoir en contrepartie de la fourniture de travail, d'actifs financiers ou d'actifs non financiers non produits.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -2514,6 +2541,7 @@
             <conceptEntry id="c83">
                 <descripGrp>
                     <descrip type="definition" xml:lang="en">Transaction in non-produced non-financial assets.</descrip>
+                    <descrip type="definition" xml:lang="fr">Transaction portant sur des actifs non financiers non produits.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                 </langSec>
@@ -2525,6 +2553,16 @@
                     </termSec>
                 </langSec>
                 <langSec xml:lang="fr">
+                    <termSec>
+                        <term type="preferred">transaction sur actifs non financiers non produits</term>
+                        <termNote type="partOfSpeech">noun</termNote>
+                        <termNote type="definition">Transaction portant sur des actifs non financiers non produits.</termNote>
+                    </termSec>
+                    <termSec>
+                        <term type="alternative">opération sur actifs non financiers non produits</term>
+                        <termNote type="partOfSpeech">noun</termNote>
+                        <termNote type="definition">Transaction portant sur des actifs non financiers non produits.</termNote>
+                    </termSec>
                 </langSec>
             </conceptEntry>
             <conceptEntry id="c84">
@@ -2840,6 +2878,7 @@
             <conceptEntry id="c94">
                 <descripGrp>
                     <descrip type="definition" xml:lang="en">Transaction in financial instruments.</descrip>
+                    <descrip type="definition" xml:lang="fr">Transaction impliquant des instruments financiers.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                 </langSec>
@@ -2851,6 +2890,16 @@
                     </termSec>
                 </langSec>
                 <langSec xml:lang="fr">
+                    <termSec>
+                        <term type="preferred">transaction financière</term>
+                        <termNote type="partOfSpeech">noun</termNote>
+                        <termNote type="definition">Transaction impliquant des instruments financiers.</termNote>
+                    </termSec>
+                    <termSec>
+                        <term type="alternative">opération financière</term>
+                        <termNote type="partOfSpeech">noun</termNote>
+                        <termNote type="definition">Transaction impliquant des instruments financiers.</termNote>
+                    </termSec>
                 </langSec>
             </conceptEntry>
             <conceptEntry id="c95">
@@ -2961,7 +3010,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Sum of all transactions on financial assets, recorded on a net basis.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Transaction sur actifs financiers enregistrée en termes nets.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -2986,7 +3035,7 @@
                     <termSec>
                         <term type="preferred">acquisition nette d'actifs financiers</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Transaction sur actifs financiers enregistrée en termes nets.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -3164,7 +3213,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Statistical statement, which is part of the international accounts and presents data on transactions between residents of an economy and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">État statistique faisant partie des comptes internationaux, présentant les transactions entre résidents d'une économie et non-résidents.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -3199,7 +3248,7 @@
                     <termSec>
                         <term type="preferred">balance des paiements</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">État statistique faisant partie des comptes internationaux, présentant les transactions entre résidents d'une économie et non-résidents.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
@@ -3468,7 +3517,7 @@
                 <descripGrp>
                     <descrip type="definition" xml:lang="de"></descrip>
                     <descrip type="definition" xml:lang="en">Balance of payment account representing flows of goods, services, primary income, and secondary income between residents and non-residents.</descrip>
-                    <descrip type="definition" xml:lang="fr"></descrip>
+                    <descrip type="definition" xml:lang="fr">Compte de la balance des paiements présentant les transactions sur biens et services, revenus primaires et revenus secondaires.</descrip>
                 </descripGrp>
                 <langSec xml:lang="de">
                     <termSec>
@@ -3488,27 +3537,27 @@
                     <termSec>
                         <term type="alternative">compte courant</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les transactions sur biens et services, revenus primaires et revenus secondaires.</termNote>
                     </termSec>
                     <termSec>
                         <term type="alternative">balance des transactions courantes</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les transactions sur biens et services, revenus primaires et revenus secondaires.</termNote>
                     </termSec>
                     <termSec>
                         <term type="not recommended">compte de transactions courantes</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les transactions sur biens et services, revenus primaires et revenus secondaires.</termNote>
                     </termSec>
                     <termSec>
                         <term type="preferred">compte des transactions courantes</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les transactions sur biens et services, revenus primaires et revenus secondaires.</termNote>
                     </termSec>
                     <termSec>
                         <term type="alternative">compte des opérations courantes</term>
                         <termNote type="partOfSpeech">noun</termNote>
-                        <termNote type="definition"></termNote>
+                        <termNote type="definition">Compte de la balance des paiements présentant les transactions sur biens et services, revenus primaires et revenus secondaires.</termNote>
                     </termSec>
                 </langSec>
             </conceptEntry>
